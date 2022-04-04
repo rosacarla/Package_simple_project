@@ -1,27 +1,25 @@
-# package_name
+# Package_simple
 
-Description. 
-The package package_name is used to:
-	- 
-	-
+<b/>Description: The package package_simple is used to an example of package creation.<b/>
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_name
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install package_simple
 
 ```bash
-pip install package_name
+pip install package_simple
 ```
 
 ## Usage
 
 ```python
-from package_name import file1_name
+from package_simple import file1_name
+
 file1_name.my_function()
 ```
 
 ## Author
-My_name
+Carla Edila
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
