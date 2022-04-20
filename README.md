@@ -1,4 +1,4 @@
-# Package_simple_dio
+# Package simple DIO
 
 <b/>Description: The package package_simple_dio is used to an example of package creation.<b/>
 
